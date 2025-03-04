@@ -1,0 +1,5 @@
+= SSE Demo
+
+This project demonstrates the use of server sent events (SSE) and is written so I can learn how to use it as an efficient alternative to websockets and see if it could be used in orchestrator
+
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events[Server-Sent Events Documentation]
